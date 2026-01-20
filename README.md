@@ -17,7 +17,7 @@
 ---
 
 ## 📝 Deskripsi Proyek
-Proyek ini berfokus pada penerapan *Deep Learning* untuk klasifikasi penyakit daun mangga berdasarkan data citra digital[cite: 15].Penyakit daun mangga adalah masalah nyata yang dapat menurunkan produktivitas tanaman, dan inspeksi manual sering kali subjektif serta rentan terhadap kesalahan manusia (human error).
+Proyek ini berfokus pada penerapan *Deep Learning* untuk klasifikasi penyakit daun mangga berdasarkan data citra digital.Penyakit daun mangga adalah masalah nyata yang dapat menurunkan produktivitas tanaman, dan inspeksi manual sering kali subjektif serta rentan terhadap kesalahan manusia (human error).
 
 Untuk mengatasi masalah ini, kami membangun model **Convolutional Neural Network (CNN)** menggunakan arsitektur **EfficientNet-B0**. Model ini dirancang untuk mengklasifikasikan kondisi daun mangga secara otomatis ke dalam **8 kelas**, termasuk daun sehat dan berbagai jenis penyakit.
 
